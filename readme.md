@@ -17,19 +17,25 @@ O projeto consiste em dois arquivos principais:
 
 ## Como Usar
 
-1. Clone o repositório para o seu sistema local.
+1. Clone o repositório para o seu sistema local:
 
 ```bash
 git clone https://github.com/danielquintaos/mod8-pon6
 ```
 
-2. Execute o arquivo `main.py` para testar o Perceptron com diferentes portas lógicas.
+2. Instale os requirements:
 
+```bash
+pip install -r requirements.txt
 ```
+
+3. Execute o arquivo `main.py` para testar o Perceptron com diferentes portas lógicas:
+
+```bash
 python main.py
 ```
 
-3. Modifique o arquivo `main.py` conforme necessário para experimentar com diferentes configurações ou portas lógicas.
+4. Modifique o arquivo `main.py` conforme necessário para experimentar com diferentes configurações ou portas lógicas.
 
 
 ## Demonstração

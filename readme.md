@@ -29,7 +29,7 @@ git clone https://github.com/danielquintaos/mod8-pon6
 pip install -r requirements.txt
 ```
 
-3. Execute o arquivo `main.py` para testar o Perceptron com diferentes portas lógicas:
+3. Execute o arquivo `main.py` para testar:
 
 ```bash
 python main.py
